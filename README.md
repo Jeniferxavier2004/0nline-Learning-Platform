@@ -27,7 +27,7 @@ Develop a comprehensive online learning platform with three user types (Student,
    - Students can add courses.
 
      ![image alt](https://github.com/Jeniferxavier2004/0nline-Learning-Platform/blob/79501f40007cef727d9fae8e7833d0742e0721fd/sreenshots/Screenshot%202024-11-28%20110546.png)
-     ![image alt]()
+     ![image alt](https://github.com/Jeniferxavier2004/0nline-Learning-Platform/blob/1642d3e46de5e377f4299d70790d6ebace556c01/sreenshots/Screenshot%202024-11-28%20110623.png)
 
 
 #### 3. *Dashboard:*
@@ -42,6 +42,7 @@ Develop a comprehensive online learning platform with three user types (Student,
    - Students can browse and buy courses on the platform.
      
 ![Screenshot 2024-05-14 211813](https://github.com/Pika003/e-Learning-Platform/assets/104189733/1578ca04-b85d-4c7b-8875-12f6756f2621)
+https://github.com/Jeniferxavier2004/0nline-Learning-Platform/blob/1642d3e46de5e377f4299d70790d6ebace556c01/sreenshots/Screenshot%202024-11-28%20110623.png
 
 #### 5. *Live Video Conferencing:*
    - Integrated video conferencing tool (similar to Google Meet) for real-time teacher-student interaction.
