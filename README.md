@@ -12,9 +12,6 @@ Develop a comprehensive online learning platform with three user types (Student,
 
 ## Features
  ![image alt](https://github.com/Jeniferxavier2004/0nline-Learning-Platform/blob/b93790f19e19e16111fcc883f5df2a91f73f4dc8/sreenshots/WhatsApp%20Image%202024-11-28%20at%2011.10.05%20AM.jpeg)
-  ![image alt](https://github.com/Jeniferxavier2004/0nline-Learning-Platform/blob/5434aaaed349803631aaa5066d61401d009484c8/sreenshots/Screenshot%202024-11-28%20110648.png)
-
-
 
 #### 1. *User Authentication:*
    - Student Login
