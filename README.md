@@ -41,6 +41,8 @@ Develop a comprehensive online learning platform with three user types (Student,
 
    - Students can browse and buy courses on the platform.
      
+![image alt](https://github.com/Jeniferxavier2004/0nline-Learning-Platform/blob/257f8e257070fbaff97d39f2a66665dc3fc2d809/sreenshots/Screenshot%202024-11-28%20110456.png)
+
 ![image alt]()
 
 #### 5. *Live Video Conferencing:*
