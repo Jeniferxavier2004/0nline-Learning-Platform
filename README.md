@@ -19,7 +19,7 @@ Develop a comprehensive online learning platform with three user types (Student,
    - Student Login
    - OTP verification
 
-   ![image alt]()
+   ![image alt](https://github.com/Jeniferxavier2004/0nline-Learning-Platform/blob/becad704ac1d87bc3766184be679978e50d76468/sreenshots/Screenshot%202024-11-28%20110253.png)
    ![image alt]()
 
 #### 2. *Application Approval:*
