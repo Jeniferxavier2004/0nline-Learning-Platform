@@ -20,7 +20,7 @@ Develop a comprehensive online learning platform with three user types (Student,
    - OTP verification
 
    ![image alt](https://github.com/Jeniferxavier2004/0nline-Learning-Platform/blob/becad704ac1d87bc3766184be679978e50d76468/sreenshots/Screenshot%202024-11-28%20110253.png)
-   ![image alt]()
+   ![image alt](https://github.com/Jeniferxavier2004/0nline-Learning-Platform/blob/9d6d5a03048ef47315e02ab0fc68153ac500ddfc/sreenshots/Screenshot%202024-11-28%20110325.png)
 
 #### 2. *Application Approval:*
    - Students and teachers can submit applications for approval.
