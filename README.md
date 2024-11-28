@@ -43,7 +43,7 @@ Develop a comprehensive online learning platform with three user types (Student,
      
 ![image alt](https://github.com/Jeniferxavier2004/0nline-Learning-Platform/blob/257f8e257070fbaff97d39f2a66665dc3fc2d809/sreenshots/Screenshot%202024-11-28%20110456.png)
 
-![image alt]()
+![image alt](https://github.com/Jeniferxavier2004/0nline-Learning-Platform/blob/b08815277a09dbd221788f750a1fe74092457b54/sreenshots/Screenshot%202024-11-28%20110519.png)
 
 #### 5. *Live Video Conferencing:*
    - Integrated video conferencing tool (similar to Google Meet) for real-time teacher-student interaction.
