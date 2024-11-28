@@ -23,10 +23,10 @@ Develop a comprehensive online learning platform with three user types (Student,
    ![image alt](https://github.com/Jeniferxavier2004/0nline-Learning-Platform/blob/9d6d5a03048ef47315e02ab0fc68153ac500ddfc/sreenshots/Screenshot%202024-11-28%20110325.png)
 
 #### 2. *Application Approval:*
-   - Students and teachers can submit applications for approval.
-   - Admin validates and approves applications.
+   - Students can add lectures.
+   - Students can add courses.
 
-     ![Screenshot 2024-05-15 212149](https://github.com/Pika003/e-Learning-Platform/assets/104189733/6e8afdba-a8a5-47e3-977c-f5292e136c3f)
+     ![image alt]()
 
 
 #### 3. *Dashboard:*
