@@ -11,7 +11,8 @@ Develop a comprehensive online learning platform with three user types (Student,
    - Backend is developed by [JENI](https://github.com/Jenifer2004).
 
 ## Features
- ![image alt](sreenshots/WhatsApp Image 2024-11-28 at 11.10.05 AM.jpeg)
+ ![image alt](screenshots/WhatsApp%20Image%202024-11-28%20at%2011.10.05%20AM.jpeg)
+
 
 
 #### 1. *User Authentication:*
