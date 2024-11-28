@@ -11,7 +11,7 @@ Develop a comprehensive online learning platform with three user types (Student,
    - Backend is developed by [JENI](https://github.com/Jenifer2004).
 
 ## Features
-![Screenshot 2024-05-14 212028](https://github.com/Pika003/e-Learning-Platform/assets/104189733/e2f9ce48-764b-48d2-8af1-188ea2918e8c)
+ ![image alt](
 
 
 #### 1. *User Authentication:*
