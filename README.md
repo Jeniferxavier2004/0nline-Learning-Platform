@@ -35,7 +35,7 @@ Develop a comprehensive online learning platform with three user types (Student,
    - Teachers view created courses, student enrollments, and communication features.
 
 ![image alt](https://github.com/Jeniferxavier2004/0nline-Learning-Platform/blob/e8612c8f8342d0e58c2641508abb978e4bdd5651/sreenshots/Screenshot%202024-11-28%20110648.png)
-![image alt]()    
+![image alt](https://github.com/Jeniferxavier2004/0nline-Learning-Platform/blob/1642d3e46de5e377f4299d70790d6ebace556c01/sreenshots/Screenshot%202024-11-28%20110623.png)    
 
 #### 4. *Course Purchase:*
 
