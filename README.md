@@ -26,6 +26,7 @@ Develop a comprehensive online learning platform with three user types (Student,
    - Students can add lectures.
    - Students can add courses.
 
+     ![image alt](https://github.com/Jeniferxavier2004/0nline-Learning-Platform/blob/79501f40007cef727d9fae8e7833d0742e0721fd/sreenshots/Screenshot%202024-11-28%20110546.png)
      ![image alt]()
 
 
