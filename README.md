@@ -34,15 +34,14 @@ Develop a comprehensive online learning platform with three user types (Student,
    - Students see purchased courses, progress, and communication options.
    - Teachers view created courses, student enrollments, and communication features.
 
-     
-![Screenshot 2024-05-14 211938](https://github.com/Pika003/e-Learning-Platform/assets/104189733/1008e68d-b683-4e8a-bc85-6d5890946724)
-![Screenshot 2024-05-14 211854](https://github.com/Pika003/e-Learning-Platform/assets/104189733/c857a214-5366-49db-8035-13d2bfb88396)
+![image alt]()
+![image alt]()    
+
 #### 4. *Course Purchase:*
 
    - Students can browse and buy courses on the platform.
      
-![Screenshot 2024-05-14 211813](https://github.com/Pika003/e-Learning-Platform/assets/104189733/1578ca04-b85d-4c7b-8875-12f6756f2621)
-https://github.com/Jeniferxavier2004/0nline-Learning-Platform/blob/1642d3e46de5e377f4299d70790d6ebace556c01/sreenshots/Screenshot%202024-11-28%20110623.png
+![image alt]()
 
 #### 5. *Live Video Conferencing:*
    - Integrated video conferencing tool (similar to Google Meet) for real-time teacher-student interaction.
